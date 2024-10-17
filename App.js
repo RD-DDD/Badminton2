@@ -1,5 +1,5 @@
 import React from 'react';
-import BadmintonRotationApp from 'src/components/BadmintonRotationApp';
+import BadmintonRotationApp from 'src/components';
 
 function App() {
   return (
